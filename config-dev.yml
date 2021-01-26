@@ -1,0 +1,2 @@
+config: 
+  info: spring-cloud-config dev configuration version = 1.0
